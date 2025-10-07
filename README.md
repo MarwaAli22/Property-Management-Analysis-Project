@@ -37,6 +37,7 @@ This helped identify **loyal clients**, **potential churners**, and **high-value
 I also visualized the RFM results to find patterns across user segments.  
 
 📂 **Notebook:** [04_RFM_Analysis.ipynb](04_RFM_Analysis.ipynb)
+
 ---
 ##  3. Sales Time Series Breakdown  
 In this step, I analyzed **sales performance over time**.  
