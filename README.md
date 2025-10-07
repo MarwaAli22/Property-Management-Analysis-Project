@@ -26,19 +26,8 @@ The cleaned files were exported as CSVs and later used for the analysis stages.
 📂 **Cleaned Data Folder:** [03_Cleaned_Dataset](03_Cleaned_Dataset)
 
 ---
-##  2. Sales Time Series Breakdown  
-In this step, I analyzed **sales performance over time**.  
-I broke down:
 
-- Monthly sales trends  
-- Seasonal patterns  
-- Regional differences  
-- Moving averages for better trend detection  
-
-📂 **Notebook:** [05_Sales_TimeSeries_Breakdown.ipynb](05_Sales_TimeSeries_Breakdown.ipynb)
-
----
-##  3. RFM Analysis  
+##  2. RFM Analysis  
 Next, I performed an **RFM (Recency, Frequency, Monetary)** analysis for both:
 
 - **Clients** – to segment customers based on activity and value  
@@ -48,6 +37,17 @@ This helped identify **loyal clients**, **potential churners**, and **high-value
 I also visualized the RFM results to find patterns across user segments.  
 
 📂 **Notebook:** [04_RFM_Analysis.ipynb](04_RFM_Analysis.ipynb)
+---
+##  3. Sales Time Series Breakdown  
+In this step, I analyzed **sales performance over time**.  
+I broke down:
+
+- Monthly sales trends  
+- Seasonal patterns  
+- Regional differences  
+- Moving averages for better trend detection  
+
+📂 **Notebook:** [05_Sales_TimeSeries_Breakdown.ipynb](05_Sales_TimeSeries_Breakdown.ipynb)
 
 ---
 
