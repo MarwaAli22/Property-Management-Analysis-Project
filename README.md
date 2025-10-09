@@ -8,12 +8,11 @@ It includes **data cleaning**, **exploration**, **RFM analysis**, **time-series 
 ---
 
 ##  1. Data Cleaning & Exploration  
-The first step was all about understanding and preparing the data.  
+The first step was all about understanding and preparing the data.
+
 I used **Python (Jupyter Notebook)** to:
-لو
 - Handle missing and duplicated values  
-- Convert date columns and normalize data types  
-- Create new calculated columns (e.g. total price, client age, etc.)  
+- Convert date columns and normalize data types    
 - Explore key trends and distributions  
 
 📂 **Notebook:** [02_EDA_Cleaning.ipynb](02_EDA_Cleaning.ipynb)
@@ -54,12 +53,19 @@ I broke down:
 
 ##  4. Power BI Dashboard  
 After the data and insights were ready, I built a **Power BI dashboard** that brings everything together visually.  
+The dashboard is structured into 6 pages, each focusing on a specific insight area:
 
-The dashboard includes:
-- **Performance KPIs** (e.g. Occupancy Rate, Avg Commission %, DOM)  
-- **Sales vs Rent comparison**  
-- **Available, Sold, and Rented properties** over time  
-- **Interactive filters** for deal type, year, and property category  
+- **Home** quick entry with slicers & theme switch
+
+- **Overview** high-level summary of sales & rentals
+
+- **Performance** KPIs, growth trends, and metrics
+
+- **Visits** visitor activity & conversion
+
+- **Agents** agent performance analysis
+
+- **Maintenance Cost** cost tracking and efficiency
 
 <p align="center">
   <a href="https://dribbble.com/shots/26627675-Property-Management-Dashboard" target="_blank">
