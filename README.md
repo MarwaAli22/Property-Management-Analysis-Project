@@ -68,10 +68,11 @@ The dashboard is structured into 6 pages, each focusing on a specific insight ar
 - **Maintenance Cost** cost tracking and efficiency
 
 <p align="center">
-  <a href="https://dribbble.com/shots/26627675-Property-Management-Dashboard" target="_blank">
+  <a href="https://dribbble.com/shots/26627675-Property-Management-Dashboard" rel="noopener noreferrer" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20Dribbble-ff69b4?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble Link"/>
   </a>
 </p>
+
 
 ---
 
